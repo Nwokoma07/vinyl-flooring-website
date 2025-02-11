@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Vinyl Planks",
+      "imageSrc": "projects/vinylPlanks.jpeg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Luxury Vinyl",
+      "imageSrc": "projects/luxuryVinyl.jpeg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Textured Vinyl",
+      "imageSrc": "projects/texturedVinyl.jpeg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Polished Vinyl",
+      "imageSrc": "projects/vinylPlanks2.jpeg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Waterproof Vinyl",
+      "imageSrc": "projects/polishedVinyl.jpeg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Industrial Vinyl",
+      "imageSrc": "projects/waterproofVinyl1.jpeg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
